@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mygitpage/home/static/css/main.53d7c2d6.css",
-    "main.js": "/mygitpage/home/static/js/main.13df40d3.js",
-    "static/media/codepic.jpg": "/mygitpage/home/static/media/codepic.a2e3ef5fef2cddde8f27.jpg",
-    "static/media/IMG_20220331_192624_1102.jpg": "/mygitpage/home/static/media/IMG_20220331_192624_1102.8dafe1a0b7f134c413a9.jpg",
-    "static/media/Lion Project.png": "/mygitpage/home/static/media/Lion Project.145776978feca30b5d00.png",
-    "static/media/golf.jpg": "/mygitpage/home/static/media/golf.d64ab4677c500d20c210.jpg",
-    "static/media/Avancerad.NetProjectbild.png": "/mygitpage/home/static/media/Avancerad.NetProjectbild.f68b43d44fd387e4f50d.png",
-    "static/media/prj-5.png": "/mygitpage/home/static/media/prj-5.76269b27a6f1b85fbe73.png",
-    "static/media/DatabasProjekt.png": "/mygitpage/home/static/media/DatabasProjekt.bdc1c5ac2a3e63adc39e.png",
-    "static/media/prj-4.png": "/mygitpage/home/static/media/prj-4.f5217c2f8cb191814b38.png",
-    "index.html": "/mygitpage/home/index.html",
-    "main.53d7c2d6.css.map": "/mygitpage/home/static/css/main.53d7c2d6.css.map",
-    "main.13df40d3.js.map": "/mygitpage/home/static/js/main.13df40d3.js.map"
+    "main.css": "/mygitpage/static/css/main.91d00aa7.css",
+    "main.js": "/mygitpage/static/js/main.cb3279d5.js",
+    "static/media/codepic.jpg": "/mygitpage/static/media/codepic.a2e3ef5fef2cddde8f27.jpg",
+    "static/media/IMG_20220331_192624_1102.jpg": "/mygitpage/static/media/IMG_20220331_192624_1102.8dafe1a0b7f134c413a9.jpg",
+    "static/media/Lion Project.png": "/mygitpage/static/media/Lion Project.145776978feca30b5d00.png",
+    "static/media/golf.jpg": "/mygitpage/static/media/golf.d64ab4677c500d20c210.jpg",
+    "static/media/Avancerad.NetProjectbild.png": "/mygitpage/static/media/Avancerad.NetProjectbild.f68b43d44fd387e4f50d.png",
+    "static/media/prj-5.png": "/mygitpage/static/media/prj-5.76269b27a6f1b85fbe73.png",
+    "static/media/DatabasProjekt.png": "/mygitpage/static/media/DatabasProjekt.bdc1c5ac2a3e63adc39e.png",
+    "static/media/prj-4.png": "/mygitpage/static/media/prj-4.f5217c2f8cb191814b38.png",
+    "index.html": "/mygitpage/index.html",
+    "main.91d00aa7.css.map": "/mygitpage/static/css/main.91d00aa7.css.map",
+    "main.cb3279d5.js.map": "/mygitpage/static/js/main.cb3279d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.53d7c2d6.css",
-    "static/js/main.13df40d3.js"
+    "static/css/main.91d00aa7.css",
+    "static/js/main.cb3279d5.js"
   ]
 }
