@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mygitpage/static/css/main.91d00aa7.css",
-    "main.js": "/mygitpage/static/js/main.cb3279d5.js",
-    "static/media/codepic.jpg": "/mygitpage/static/media/codepic.a2e3ef5fef2cddde8f27.jpg",
-    "static/media/IMG_20220331_192624_1102.jpg": "/mygitpage/static/media/IMG_20220331_192624_1102.8dafe1a0b7f134c413a9.jpg",
-    "static/media/Lion Project.png": "/mygitpage/static/media/Lion Project.145776978feca30b5d00.png",
-    "static/media/golf.jpg": "/mygitpage/static/media/golf.d64ab4677c500d20c210.jpg",
-    "static/media/Avancerad.NetProjectbild.png": "/mygitpage/static/media/Avancerad.NetProjectbild.f68b43d44fd387e4f50d.png",
-    "static/media/prj-5.png": "/mygitpage/static/media/prj-5.76269b27a6f1b85fbe73.png",
-    "static/media/DatabasProjekt.png": "/mygitpage/static/media/DatabasProjekt.bdc1c5ac2a3e63adc39e.png",
-    "static/media/prj-4.png": "/mygitpage/static/media/prj-4.f5217c2f8cb191814b38.png",
-    "index.html": "/mygitpage/index.html",
-    "main.91d00aa7.css.map": "/mygitpage/static/css/main.91d00aa7.css.map",
-    "main.cb3279d5.js.map": "/mygitpage/static/js/main.cb3279d5.js.map"
+    "main.css": "/hemsidareact/static/css/main.32b3d1bd.css",
+    "main.js": "/hemsidareact/static/js/main.761275a4.js",
+    "static/media/codepic.jpg": "/hemsidareact/static/media/codepic.a2e3ef5fef2cddde8f27.jpg",
+    "static/media/IMG_20220331_192624_1102.jpg": "/hemsidareact/static/media/IMG_20220331_192624_1102.8dafe1a0b7f134c413a9.jpg",
+    "static/media/Lion Project.png": "/hemsidareact/static/media/Lion Project.145776978feca30b5d00.png",
+    "static/media/golf.jpg": "/hemsidareact/static/media/golf.d64ab4677c500d20c210.jpg",
+    "static/media/Avancerad.NetProjectbild.png": "/hemsidareact/static/media/Avancerad.NetProjectbild.f68b43d44fd387e4f50d.png",
+    "static/media/prj-5.png": "/hemsidareact/static/media/prj-5.76269b27a6f1b85fbe73.png",
+    "static/media/DatabasProjekt.png": "/hemsidareact/static/media/DatabasProjekt.bdc1c5ac2a3e63adc39e.png",
+    "static/media/prj-4.png": "/hemsidareact/static/media/prj-4.f5217c2f8cb191814b38.png",
+    "index.html": "/hemsidareact/index.html",
+    "main.32b3d1bd.css.map": "/hemsidareact/static/css/main.32b3d1bd.css.map",
+    "main.761275a4.js.map": "/hemsidareact/static/js/main.761275a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.91d00aa7.css",
-    "static/js/main.cb3279d5.js"
+    "static/css/main.32b3d1bd.css",
+    "static/js/main.761275a4.js"
   ]
 }
