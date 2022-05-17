@@ -18,8 +18,8 @@ function App() {
         <Route path="/hemsidareact" element={<Home />} />
         <Route path="/hemsidareact/about" element={<About />} />
         <Route path="/hemsidareact/portfolio" element={<Portfolio />} />
-        <Route path="/hemsidareact/Cv" element={<Cv />} />
-        <Route path="/hemsidareact/Contact" element={<Contact />} />
+        <Route path="/hemsidareact/cv" element={<Cv />} />
+        <Route path="/hemsidareact/contact" element={<Contact />} />
       </Routes>
     </div>
   );
@@ -35,11 +35,11 @@ function Home() {
           </div>
           <div className="nav-list">
             <ul>
-              <li><a href="/hemsidareact/home">Home</a></li>
-              <li><a href="/hemsidareact/About">About me</a></li>
-              <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-              <li><a href="/hemsidareact/Cv">CV</a></li>
-              <li><a href="/hemsidareact/Contact">Contact</a></li>
+              <li>Home</li>
+              <li><a href="/hemsidareact/about">About me</a></li>
+              <li><a href="/hemsidareact/portfolio">Portfolio</a></li>
+              <li><a href="/hemsidareact/cv">CV</a></li>
+              <li><a href="/hemsidareact/contact">Contact</a></li>
             </ul>
           </div>
           <div className="social-icons">
@@ -109,10 +109,10 @@ function About() {
           <div className="nav-list">
             <ul>
               <li><a href="/hemsidareact/home">Home</a></li>
-              <li><a href="/hemsidareact/About">About me</a></li>
-              <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-              <li><a href="/hemsidareact/Cv">CV</a></li>
-              <li><a href="/hemsidareact/Contact">Contact</a></li>
+              <li>About</li>
+              <li><a href="/hemsidareact/portfolio">Portfolio</a></li>
+              <li><a href="/hemsidareact/cv">CV</a></li>
+              <li><a href="/hemsidareact/contact">Contact</a></li>
             </ul>
           </div>
           <div className="social-icons">
@@ -163,10 +163,10 @@ function About() {
               <div className="brand"><img src={require('./logo.png')} alt="Logo" className="logo" /></div>
               <ul>
                 <li><a href="/hemsidareact/home">Home</a></li>
-                <li><a href="/hemsidareact/About">About me</a></li>
-                <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-                <li><a href="/hemsidareact/Cv">CV</a></li>
-                <li><a href="/hemsidareact/Contact">Contact</a></li>
+                <li>About</li>
+                <li><a href="/hemsidareact/portfolio">Portfolio</a></li>
+                <li><a href="/hemsidareact/cv">CV</a></li>
+                <li><a href="/hemsidareact/contact">Contact</a></li>
               </ul>
             </div>
           </div>
@@ -190,10 +190,10 @@ function Portfolio() {
         <div className="nav-list">
           <ul>
             <li><a href="/hemsidareact/home">Home</a></li>
-            <li><a href="/hemsidareact/About">About me</a></li>
-            <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-            <li><a href="/hemsidareact/Cv">CV</a></li>
-            <li><a href="/hemsidareact/Contact">Contact</a></li>
+            <li><a href="/hemsidareact/about">About me</a></li>
+            <li>Portfolio</li>
+            <li><a href="/hemsidareact/cv">CV</a></li>
+            <li><a href="/hemsidareact/contact">Contact</a></li>
           </ul>
         </div>
         <div className="social-icons">
@@ -286,10 +286,10 @@ function Portfolio() {
             <div className="brand"><img src={require('./logo.png')} alt="Logo" className="logo" /></div>
             <ul>
               <li><a href="/hemsidareact/home">Home</a></li>
-              <li><a href="/hemsidareact/About">About me</a></li>
-              <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-              <li><a href="/hemsidareact/Cv">CV</a></li>
-              <li><a href="/hemsidareact/Contact">Contact</a></li>
+              <li><a href="/hemsidareact/about">About me</a></li>
+              <li>Portfolio</li>
+              <li><a href="/hemsidareact/cv">CV</a></li>
+              <li><a href="/hemsidareact/contact">Contact</a></li>
             </ul>
           </div>
         </div>
@@ -308,10 +308,10 @@ function Cv() {
           <div className="nav-list">
             <ul>
               <li><a href="/hemsidareact/home">Home</a></li>
-              <li><a href="/hemsidareact/About">About me</a></li>
-              <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-              <li><a href="/hemsidareact/Cv">CV</a></li>
-              <li><a href="/hemsidareact/Contact">Contact</a></li>
+              <li><a href="/hemsidareact/about">About me</a></li>
+              <li><a href="/hemsidareact/portfolio">Portfolio</a></li>
+              <li>CV</li>
+              <li><a href="/hemsidareact/contact">Contact</a></li>
             </ul>
           </div>
           <div className="social-icons">
@@ -357,11 +357,11 @@ function Cv() {
             <div className="quick-links">
               <div className="brand"><img src={require('./logo.png')} alt="" /></div>
               <ul>
-                <li><a href="/hemsidareact/home">Home</a></li>
-                <li><a href="/hemsidareact/About">About me</a></li>
-                <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-                <li><a href="/hemsidareact/Cv">CV</a></li>
-                <li><a href="/hemsidareact/Contact">Contact</a></li>
+              <li><a href="/hemsidareact/home">Home</a></li>
+              <li><a href="/hemsidareact/about">About me</a></li>
+              <li><a href="/hemsidareact/portfolio">Portfolio</a></li>
+              <li>CV</li>
+              <li><a href="/hemsidareact/contact">Contact</a></li>
               </ul>
             </div>
           </div>
@@ -387,10 +387,10 @@ function Contact() {
         <div class="nav-list">
           <ul>
             <li><a href="/hemsidareact/home">Home</a></li>
-            <li><a href="/hemsidareact/About">About me</a></li>
-            <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-            <li><a href="/hemsidareact/Cv">CV</a></li>
-            <li><a href="/hemsidareact/Contact">Contact</a></li>
+            <li><a href="/hemsidareact/about">About me</a></li>
+            <li><a href="/hemsidareact/portfolio">Portfolio</a></li>
+            <li><a href="/hemsidareact/cv">CV</a></li>
+            <li>Contact</li>
           </ul>
         </div>
         <div class="social-icons">
@@ -431,11 +431,11 @@ function Contact() {
           <div class="quick-links">
             <div class="brand"><img src={require('./logo.png')} alt="" /></div>
             <ul>
-              <li><a href="/hemsidareact/home">Home</a></li>
-              <li><a href="/hemsidareact/About">About me</a></li>
-              <li><a href="/hemsidareact/Portfolio">Portfolio</a></li>
-              <li><a href="/hemsidareact/Cv">CV</a></li>
-              <li><a href="/hemsidareact/Contact">Contact</a></li>
+            <li><a href="/hemsidareact/home">Home</a></li>
+            <li><a href="/hemsidareact/about">About me</a></li>
+            <li><a href="/hemsidareact/portfolio">Portfolio</a></li>
+            <li><a href="/hemsidareact/cv">CV</a></li>
+            <li>Contact</li>
             </ul>
           </div>
         </div>
